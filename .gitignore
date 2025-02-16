@@ -1,0 +1,19 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.eggs/
+*.whl
+*.manifest
+*.spec
+
+# Output folder
+output/
+venv/
